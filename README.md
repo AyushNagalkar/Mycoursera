@@ -11,3 +11,6 @@ This repository is created for the Coursera peer-graded final project.
 ## Purpose
 This project demonstrates Git and GitHub fundamentals, including repository setup,
 branching, pull requests, and collaborative workflows.
+
+## Update Note
+This line was added from a feature branch to demonstrate branch-based collaboration.
